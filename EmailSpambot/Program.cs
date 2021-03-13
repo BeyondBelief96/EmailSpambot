@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Net.Mail;
 using System.Net.Mime;
-
 namespace EmailSpambot
 {
     class Program
