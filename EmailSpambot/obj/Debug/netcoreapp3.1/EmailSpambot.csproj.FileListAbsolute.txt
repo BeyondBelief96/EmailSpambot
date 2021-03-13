@@ -1,0 +1,13 @@
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\bin\Debug\netcoreapp3.1\EmailSpambot.exe
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\bin\Debug\netcoreapp3.1\EmailSpambot.deps.json
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\bin\Debug\netcoreapp3.1\EmailSpambot.runtimeconfig.json
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\bin\Debug\netcoreapp3.1\EmailSpambot.runtimeconfig.dev.json
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\bin\Debug\netcoreapp3.1\EmailSpambot.dll
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\bin\Debug\netcoreapp3.1\EmailSpambot.pdb
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\obj\Debug\netcoreapp3.1\EmailSpambot.csprojAssemblyReference.cache
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\obj\Debug\netcoreapp3.1\EmailSpambot.AssemblyInfoInputs.cache
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\obj\Debug\netcoreapp3.1\EmailSpambot.AssemblyInfo.cs
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\obj\Debug\netcoreapp3.1\EmailSpambot.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\obj\Debug\netcoreapp3.1\EmailSpambot.dll
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\obj\Debug\netcoreapp3.1\EmailSpambot.pdb
+C:\Users\brand\Desktop\Visual Studio Projects\Email-Spambot\EmailSpambot\EmailSpambot\obj\Debug\netcoreapp3.1\EmailSpambot.genruntimeconfig.cache
