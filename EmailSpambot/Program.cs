@@ -13,14 +13,14 @@ namespace EmailSpambot
             client.EnableSsl = true;
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
             client.UseDefaultCredentials = false;
-            client.Credentials = new System.Net.NetworkCredential("brandonberisford@gmail.com", "Mtsuphysics96+");
+            client.Credentials = new System.Net.NetworkCredential("your gmail email", "your gmail password");
 
             MailMessage email = new MailMessage();
             email.IsBodyHtml = true;
-            email.AlternateViews.Add(GetEmbeddedImage(@"C:\Users\brand\Desktop\peepo.png"));
-            email.From = new MailAddress("brandonberisford@gmail.com");
-            email.To.Add("brandonberisford@gmail.com");
-            email.Subject = "NUCLEAR MISSILE HEADED TO US. TAKE COVER";
+            email.AlternateViews.Add(GetEmbeddedImage(@"file path to image file to send."));
+            email.From = new MailAddress("your email address");
+            email.To.Add("email address of recipient.");
+            email.Subject = "Subject of the email.";
             email.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure;
 
 
@@ -36,7 +36,7 @@ namespace EmailSpambot
 
             for(int i = 0; i < 100; i++)
             {
-                 client.Send(email);
+                client.Send(email);
                 Console.WriteLine("Sending...");
             }
             
