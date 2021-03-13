@@ -17,10 +17,10 @@ namespace EmailSpambot
 
             MailMessage email = new MailMessage();
             email.IsBodyHtml = true;
-            email.AlternateViews.Add(GetEmbeddedImage(@"C:\Users\brand\Desktop\peepo.png"));
-            email.From = new MailAddress("brandonberisford@gmail.com");
-            email.To.Add("brandonberisford@gmail.com");
-            email.Subject = "NUCLEAR MISSILE HEADED TO US. TAKE COVER";
+            email.AlternateViews.Add(GetEmbeddedImage(@"file path to a image file.));
+            email.From = new MailAddress("your email address");
+            email.To.Add("email address of person your trying to spam");
+            email.Subject = "replace with email subject title";
             email.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure;
 
 
