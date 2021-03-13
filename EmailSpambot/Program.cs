@@ -13,7 +13,7 @@ namespace EmailSpambot
             client.EnableSsl = true;
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
             client.UseDefaultCredentials = false;
-            client.Credentials = new System.Net.NetworkCredential("brandonberisford@gmail.com", "Mtsuphysics96+");
+            client.Credentials = new System.Net.NetworkCredential("your gmail email", "your gmail password");
 
             MailMessage email = new MailMessage();
             email.IsBodyHtml = true;
